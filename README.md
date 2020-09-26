@@ -1,3 +1,4 @@
+所有依赖都在本地，无需从网络下载，能正常工作
 # CRUD-PHP-JQuery-AJAX
 
 ### Basic Create Read Update Delete operations using JQuery AJAX with PHP MySQLi 
